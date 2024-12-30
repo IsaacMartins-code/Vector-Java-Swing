@@ -1,1 +1,1 @@
-Just for study. System for updating vector indexes with Java Swing. User can add, remove and arrange indexes in ascending order.
+Apenas para estudo. Sistema para atualização de índices vetoriais com Java Swing. O usuário pode adicionar, remover e organizar índices em ordem crescente.
